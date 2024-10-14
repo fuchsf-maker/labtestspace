@@ -1,6 +1,5 @@
 requests
 bs4
-unicodedata
 lxml 
 pandas
 matplotlib.pyplot
